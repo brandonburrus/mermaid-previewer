@@ -5,6 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "mermaid": "src/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BrandonBurrus/mermaid-previewer.git"
