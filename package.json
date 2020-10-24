@@ -8,6 +8,9 @@
   "bin": {
     "mermaid": "src/index.js"
   },
+  "files": [
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BrandonBurrus/mermaid-previewer.git"
