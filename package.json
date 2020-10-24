@@ -1,6 +1,6 @@
 {
   "name": "mermaid-previewer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple CLI tool for previewing live edits to Mermaid.js Diagrams",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
