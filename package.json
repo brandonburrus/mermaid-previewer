@@ -20,6 +20,13 @@
   },
   "homepage": "https://github.com/BrandonBurrus/mermaid-previewer#readme",
   "dependencies": {
-    "mermaid": "^8.8.2"
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "live-server": "^1.2.1",
+    "mermaid": "^8.8.2",
+    "node-html-to-image": "^3.1.0",
+    "open-file-explorer": "^1.0.2",
+    "tmp": "^0.2.1",
+    "yargs": "^16.1.0"
   }
 }
