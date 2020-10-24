@@ -1,0 +1,22 @@
+{
+  "name": "mermaid-previewer",
+  "version": "0.0.1",
+  "description": "Simple CLI tool for previewing live edits to Mermaid.js Diagrams",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonBurrus/mermaid-previewer.git"
+  },
+  "keywords": [],
+  "author": "Brandon Burrus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonBurrus/mermaid-previewer/issues"
+  },
+  "homepage": "https://github.com/BrandonBurrus/mermaid-previewer#readme",
+  "dependencies": {
+    "mermaid": "^8.8.2"
+  }
+}
