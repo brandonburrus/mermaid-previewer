@@ -1,4 +1,7 @@
 # mermaid-previewer
+
+![version](https://img.shields.io/npm/v/mermaid-previewer?style=for-the-badge) ![license](https://img.shields.io/npm/l/mermaid-previewer?style=for-the-badge)
+
 Basic CLI tool for previewing live edits to [Mermaid.js](https://mermaid-js.github.io/) Diagrams
 
 ![Mermaid preview cli tool screen recording](./resources/preview.gif)
@@ -39,4 +42,4 @@ Pull Requests are welcome! Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) fi
 details.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./LICENSE)
