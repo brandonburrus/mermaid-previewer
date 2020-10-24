@@ -33,8 +33,10 @@ location as the original target diagram file as a JPEG.
 
 ## CLI Options
 
-`--port`: Sets the preview server port (default: 9510).
+`--port`: Sets the preview server port (default: 9510)
+
 `--help`: Displays the help output
+
 `--version`: Displays the current version
 
 ## Contributing
