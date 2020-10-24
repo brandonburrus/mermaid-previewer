@@ -1,6 +1,6 @@
 {
   "name": "mermaid-previewer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple CLI tool for previewing live edits to Mermaid.js Diagrams",
   "bin": {
     "mermaid": "src/index.js"
